@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:0 type="stream" channelId="-1", name="M+ Supercopa" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", Movistar Supercopa
-http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
+http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.ts
 #EXTINF:0 type="stream" channelId="3123", #0
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178072
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
