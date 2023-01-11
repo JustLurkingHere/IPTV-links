@@ -14,6 +14,8 @@
 [Movistar Liga De Campeones 4](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL21saWdhZGVjYW1wZW9uZXM0LnBocA==)<br>
 [#Vamos](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL3ZhbW9zLnBocA==)<br>
 [Movistar Deportes](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL21kZXBvcnRlcy5waHA=)<br>
+[Movistar Supercopa](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL2dvbG11bmRpYWwucGhw)<br>
+[Movistar Supercopa (Only for Chromium)](https://futbol-tv.online/eventos/?r=Y2hyb21lLWV4dGVuc2lvbjovL2xjaXBlbWJqZmttZWdncGloZHBkZ25qaWxkZ25pZmZsL3BsYXllci5odG1sI2h0dHBzOi8vMDFtdW5kaWFsLWRhc2gtbW92aXN0YXJwbHVzLmVtaXNpb25kb2Y2LmNvbS9kYXNoLzAxbXVuZGlhbC5pc21sL21hbmlmZXN0Lm1wZD8mY2s9ZXlKaFlUTTBaREF6WkRNNVptTTBOMlJqT1RSaVl6TTBOVGc1TWpoaFpHTTVNQ0k2SWpBMk9URTNPRE00TkdFeU5qZ3pPVFl4TUdFeVpqTmlOekpoWWprek5UQTRJbjA9)<br>
 
 ## FRANCIA ##
 [beIN Sports](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2JlaW4xLnBocA==)<br>
