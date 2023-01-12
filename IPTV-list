@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", M+ Supercopa
 http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.m3u8
-#EXTINF:0 type="stream" channelId="3123", #0
+#EXTINF:0 type="stream" channelId="3123", M+ #0
 http://575542878992321069.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321069.m3u8
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:0 type="stream" channelId="2528" name="LaOtra" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
+#EXTINF:0 type="stream" channelId="2528" name="LaOtra" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", La Otra
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:0 type="stream" channelId="1671" name="Canal Sur Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
@@ -21,8 +21,6 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="La 8 Bierzo" logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200", La 8 Bierzo
 https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4918", Aragón TV
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/199799
 #EXTINF:0 type="stream" channelId="4048" name="7 R. de Murcia" logo="https://graph.facebook.com/la7tele/picture?width=200&height=200", 7 R. de Murcia
 https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8
 #EXTINF:0 type="stream" channelId="3734" name="Castilla-La Mancha Media" logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200", Castilla-La Mancha Media
@@ -41,21 +39,21 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:0 type="stream" channelId="-1", Multideporte
 http://575542878992321363.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321363.m3u8
-#EXTINF:0 type="stream" channelId="4046" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png", #Vamos
+#EXTINF:0 type="stream" channelId="4046" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png", M+ #Vamos
 http://575542878992321072.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321072.m3u8
 #EXTINF:0 type="stream" channelId="1367" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png", Movistar LaLiga TV
 http://86459492047165392.nicesjb.xyz:80/play/ja919164/7945667668/165392.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png", DAZN LaLiga
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/228844
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Smartbank TV
-https://dotaavefenix.tech:2096/yb3AetjqSS/NZ7RhVrar5/80953
+http://575542878992165407.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/165407.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga SmartbankTV
+http://575542878992320786.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/320786.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png", DAZN 1
 http://575542878992228385.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228385.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png", DAZN 2
 http://575542878992228388.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228388.m3u8
-#EXTINF:0 type="stream" channelId="1368", Movistar Liga de Campeones
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151663
-#EXTINF:0 type="stream" channelId="1365", Movistar Deportes
+#EXTINF:0 type="stream" channelId="1368", M+ Liga de Campeones
+http://575542878992165358.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/165358.m3u8
+#EXTINF:0 type="stream" channelId="1365", M+ Deportes
 http://575542878992268070.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/268070.m3u8
 #EXTINF:0 type="stream" channelId="82", Eurosport 1
 http://575542878992290349.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/290349.m3u8
@@ -64,7 +62,7 @@ http://575542878992290352.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/290352.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png", DAZN F1
 http://86459492047318564.nicesjb.xyz:80/play/ja919164/7945667668/318564.m3u8
 #EXTINF:0 type="stream" channelId="57", Discovery
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178199
+http://86459492047321211.nicesjb.xyz:80/play/ja919164/7945667668/321211.m3u8
 #EXTINF:0 type="stream" channelId="2826" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png", Historia
 http://575542878992321157.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321157.m3u8
 #EXTINF:0 type="stream" channelId="1698", Odisea
@@ -95,18 +93,16 @@ http://575542878992321153.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321153.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1688" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png", Hollywood
 http://575542878992339740.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/339740.m3u8
-#EXTINF:0 type="stream" channelId="1378", Movistar Estrenos
+#EXTINF:0 type="stream" channelId="1378", M+ Estrenos
 http://575542878992321338.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321338.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png", M+ Estrenos 2
 http://575542878992321335.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321335.m3u8
-#EXTINF:0 type="stream" channelId="1360" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png", Movistar Comedia
+#EXTINF:0 type="stream" channelId="1360" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png", M+ Comedia
 http://575542878992321318.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321318.m3u8
-#EXTINF:0 type="stream" channelId="1361", Movistar Drama
+#EXTINF:0 type="stream" channelId="1361", M+ Drama
 http://575542878992321332.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321332.m3u8
-#EXTINF:0 type="stream" channelId="1359" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png", Movistar Acción
+#EXTINF:0 type="stream" channelId="1359" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png", M+ Acción
 http://575542878992321306.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321306.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png", BOM Cine
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178100
 #EXTINF:0 type="stream" channelId="4672", Atrescine
 http://575542878992339735.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/339735.m3u8
 #EXTINF:0 type="stream" channelId="895", TCM
@@ -115,8 +111,6 @@ http://575542878992321426.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321426.m3u8
 http://575542878992321315.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321315.m3u8
 #EXTINF:0 type="stream" channelId="1366" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png", M+ Cine Español
 http://575542878992321311.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321311.m3u8
-#EXTINF:0 type="stream" channelId="1705", Somos
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178151
 #EXTINF:0 type="stream" channelId="177" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png", Fox
 http://575542878992321252.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321252.m3u8
 #EXTINF:0 type="stream" channelId="1052", TNT
@@ -128,7 +122,7 @@ http://575542878992321116.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321116.m3u8
 #EXTINF:0 type="stream" channelId="2501", AMC
 http://86459492047321103.nicesjb.xyz:80/play/ja919164/7945667668/321103.m3u8
 #EXTINF:0 type="stream" channelId="1667" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png", Calle 13
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178126
+http://575542878992321139.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321139.m3u8
 #EXTINF:0 type="stream" channelId="1677" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png", COSMO
 http://575542878992321188.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321188.m3u8
 #EXTINF:0 type="stream" channelId="1190", Comedy Central
@@ -170,8 +164,10 @@ http://575542878992228394.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228394.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png", DAZN 4
 http://575542878992228398.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228398.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png", DAZN LaLiga 2
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/228849
+http://575542878992320779.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/320779.m3u8
 #EXTINF:0 type="stream" channelId="3142", Movistar LaLiga TV 2
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151651
-#EXTINF:0 type="stream" channelId="4917", Movistar Liga de Campeones 2
+http://575542878992165398.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/165398.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png", LaLiga SmartbankTV M2
+http://575542878992329115.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/329115.m3u8
+#EXTINF:0 type="stream" channelId="4917", M+ Liga de Campeones 2
 http://575542878992282469.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/282469.m3u8
