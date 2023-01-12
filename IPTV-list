@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:0 type="stream" channelId="-1", Movistar Supercopa
-http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", M+ Supercopa
+http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.m3u8
 #EXTINF:0 type="stream" channelId="3123", #0
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178072
+http://575542878992321069.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321069.m3u8
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:0 type="stream" channelId="2528" name="LaOtra" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
@@ -10,7 +10,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:0 type="stream" channelId="1671" name="Canal Sur Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2531" name="TVG América" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/199838
+https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3120" name="ETB 2" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:0 type="stream" channelId="4052" name="EITB Basque" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
@@ -39,98 +39,100 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:0 type="stream" channelId="4047" name="À Punt" logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200", À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:0 type="stream" channelId="-1", Multideporte
+http://575542878992321363.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321363.m3u8
 #EXTINF:0 type="stream" channelId="4046" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png", #Vamos
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151640
+http://575542878992321072.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321072.m3u8
 #EXTINF:0 type="stream" channelId="1367" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png", Movistar LaLiga TV
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151645
+http://86459492047165392.nicesjb.xyz:80/play/ja919164/7945667668/165392.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png", DAZN LaLiga
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/228844
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png", LaLiga Smartbank TV
 https://dotaavefenix.tech:2096/yb3AetjqSS/NZ7RhVrar5/80953
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png", DAZN 1
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151705
+http://575542878992228385.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228385.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png", DAZN 2
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151708
+http://575542878992228388.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228388.m3u8
 #EXTINF:0 type="stream" channelId="1368", Movistar Liga de Campeones
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151663
 #EXTINF:0 type="stream" channelId="1365", Movistar Deportes
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151682
+http://575542878992268070.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/268070.m3u8
 #EXTINF:0 type="stream" channelId="82", Eurosport 1
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151675
+http://575542878992290349.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/290349.m3u8
 #EXTINF:0 type="stream" channelId="83", Eurosport 2
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151674
+http://575542878992290352.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/290352.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png", DAZN F1
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151695
+http://86459492047318564.nicesjb.xyz:80/play/ja919164/7945667668/318564.m3u8
 #EXTINF:0 type="stream" channelId="57", Discovery
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178199
-#EXTINF:0 type="stream" channelId="2826" group="Documentales" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png", Historia
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178196
+#EXTINF:0 type="stream" channelId="2826" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png", Historia
+http://575542878992321157.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321157.m3u8
 #EXTINF:0 type="stream" channelId="1698", Odisea
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178188
+http://575542878992339742.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/339742.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png", AMC Break
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/219260
+http://86459492047336284.nicesjb.xyz:80/play/ja919164/7945667668/336284.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png", AMC Crime
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/219263
+http://575542878992351272.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/351272.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Factual" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800008ZD_20221026T004511SQUARE.png_20221026004512.png", Pluto TV Mundo Real
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:0 type="stream" channelId="-1" group="Factual" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000094V_20221026T004455SQUARE.png_20221026004455.png", Explore by TVPlayer
 https://amg00712-alchimie-explorebytves-samsungspain-b2ndn.amagi.tv/playlist/amg00712-alchimie-explorebytves-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:0 type="stream" channelId="56", National Geographic
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178184
+http://575542878992339777.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/339777.m3u8
 #EXTINF:0 type="stream" channelId="164", Nat Geo Wild
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/193870
+http://575542878992321369.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321369.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png", Encantador de Perros
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/633da813ebceae0007124e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/featuredImage.jpg", Casos de la Dra. Polo
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/226014
 #EXTINF:0 type="stream" channelId="1669", Cocina
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178055
+http://575542878992321148.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321148.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20221214T044859SQUARE.png_20221214044900.png", Pluto TV Cocina
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0af1f26bc900079ab871/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:0 type="stream" channelId="2825", Decasa
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178057
+http://575542878992321153.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321153.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="¡HOLA! Play" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png", ¡HOLA! Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1688" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png", Hollywood
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178135
+http://575542878992339740.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/339740.m3u8
 #EXTINF:0 type="stream" channelId="1378", Movistar Estrenos
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178078
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png", Movistar Estrenos 2
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178080
+http://575542878992321338.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321338.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png", M+ Estrenos 2
+http://575542878992321335.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321335.m3u8
 #EXTINF:0 type="stream" channelId="1360" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png", Movistar Comedia
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178084
+http://575542878992321318.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321318.m3u8
 #EXTINF:0 type="stream" channelId="1361", Movistar Drama
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178090
+http://575542878992321332.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321332.m3u8
 #EXTINF:0 type="stream" channelId="1359" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png", Movistar Acción
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178075
+http://575542878992321306.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321306.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png", BOM Cine
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178100
+#EXTINF:0 type="stream" channelId="4672", Atrescine
+http://575542878992339735.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/339735.m3u8
 #EXTINF:0 type="stream" channelId="895", TCM
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178118
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MCLAS.png", Movistar+ Clásicos
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178091
+http://575542878992321426.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321426.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MCLAS.png", M+ Clásicos
+http://575542878992321315.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321315.m3u8
 #EXTINF:0 type="stream" channelId="1366" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png", M+ Cine Español
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178087
+http://575542878992321311.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321311.m3u8
 #EXTINF:0 type="stream" channelId="1705", Somos
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178151
 #EXTINF:0 type="stream" channelId="177" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png", Fox
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178108
+http://575542878992321252.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321252.m3u8
 #EXTINF:0 type="stream" channelId="1052", TNT
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178147
+http://575542878992321443.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321443.m3u8
 #EXTINF:0 type="stream" channelId="1573" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png", AXN
-https://dotaavefenix.tech:2096/yb3AetjqSS/NZ7RhVrar5/74325
+http://575542878992321119.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321119.m3u8
 #EXTINF:0 type="stream" channelId="1574", AXN White
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178116
+http://575542878992321116.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321116.m3u8
 #EXTINF:0 type="stream" channelId="2501", AMC
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178144
+http://86459492047321103.nicesjb.xyz:80/play/ja919164/7945667668/321103.m3u8
 #EXTINF:0 type="stream" channelId="1667" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png", Calle 13
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178126
 #EXTINF:0 type="stream" channelId="1677" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png", COSMO
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178129
+http://575542878992321188.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321188.m3u8
 #EXTINF:0 type="stream" channelId="1190", Comedy Central
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/178132
+http://575542878992321184.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321184.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20221026T004456SQUARE.png_20221026004457.png", Pluto TV Cine Estelar
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:0 type="stream" channelId="-1" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png", MyTime Movie Network
@@ -163,13 +165,13 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0 type="stream" channelId="529" name="Arirang TV Korea" logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="DAZN" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png", DAZN 3
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151710
-#EXTINF:0 type="stream" channelId="-1" group="DAZN" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png", DAZN 4
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151712
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png", DAZN 3
+http://575542878992228394.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228394.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png", DAZN 4
+http://575542878992228398.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/228398.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png", DAZN LaLiga 2
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/228849
 #EXTINF:0 type="stream" channelId="3142", Movistar LaLiga TV 2
 http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151651
 #EXTINF:0 type="stream" channelId="4917", Movistar Liga de Campeones 2
-http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151666
+http://575542878992282469.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/282469.m3u8
