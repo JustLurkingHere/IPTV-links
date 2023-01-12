@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", M+ Supercopa
 http://575542878992333643.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/333643.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", M+ Supercopa (juliga+ts)
+http://a.juliga.xyz:8080/live/JULIAS/Lf33DyBxD62B&output=ts/4961.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", M+ Supercopa (juliga+hls)
+http://a.juliga.xyz:8080/live/JULIAS/Lf33DyBxD62B&output=hls/4961.m3u8
 #EXTINF:0 type="stream" channelId="3123", M+ #0
 http://575542878992321069.nicesjb.xyz:80/play/fe0103523/EKCBrN77pdnh/321069.m3u8
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
