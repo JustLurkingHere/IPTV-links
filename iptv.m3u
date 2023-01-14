@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/GMUNDI.png", M+ Supercopa
- http://c06c511f7809eecd3e7292df94dca69d.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27220?h=bd6d12d5de891ed88dfed989c6393814030cfe02&z=83.52.82.65&i=17549&type=m3u_plus&output=m3u8
+http://c06c511f7809eecd3e7292df94dca69d.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27220?h=bd6d12d5de891ed88dfed989c6393814030cfe02&z=83.52.82.65&i=17549&type=m3u_plus&output=m3u8
 #EXTINF:0 type="stream" channelId="3123", M+ #0
 http://c06c511f7809eecd3e7292df94dca69d.spa.iscaja.me:25461/VQT3BetyBy/112913219122/3818?h=bd6d12d5de891ed88dfed989c6393814030cfe02&z=83.52.82.65&i=17549&type=m3u_plus&output=m3u8
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
