@@ -54,6 +54,7 @@
 
 ## POLONIA ##
 [Eleven Sports 1](https://futbol-tv.online/eventos/?r=Ly9ibGV0Y2hlYW50YS5tYWtldXAvZW1iZWQvcGwvZWxldmVuLnBocA==)<br>
+[Eleven Sports 2](https://futbol-tv.online/eventos/?r=Ly9ibGV0Y2hlYW50YS5tYWtldXAvZW1iZWQvcGwvZWxldmVuMi5waHA=)<br>
 [Eleven Sports 3](https://futbol-tv.online/eventos/?r=Ly9ibGV0Y2hlYW50YS5tYWtldXAvZW1iZWQvcGwvZWxldmVuMy5waHA=)<br>
 [Canal+ Sport](https://futbol-tv.online/eventos/?r=Ly9ibGV0Y2hlYW50YS5tYWtldXAvZW1iZWQvcGwvY2FuYWwrLnBocA==)<br>
 [Canal+ Sport 2](https://futbol-tv.online/eventos/?r=Ly9ibGV0Y2hlYW50YS5tYWtldXAvZW1iZWQvcGwvY2FuYWwrMi5waHA=)<br>
