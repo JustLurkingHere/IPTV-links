@@ -3,6 +3,10 @@
 http://c06c511f7809eecd3e7292df94dca69d.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27220?h=bd6d12d5de891ed88dfed989c6393814030cfe02&z=83.52.82.65&i=17549&type=m3u_plus&output=m3u8
 #EXTINF:0 type="stream" channelId="3123", M+ #0
 http://c06c511f7809eecd3e7292df94dca69d.spa.iscaja.me:25461/VQT3BetyBy/112913219122/3818?h=bd6d12d5de891ed88dfed989c6393814030cfe02&z=83.52.82.65&i=17549&type=m3u_plus&output=m3u8
+#EXTINF:0 type="stream" channelId="4030", El Toro TV
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/allchannels/1000X104IRCLE.png?scl=1&fmt=png-alpha", 7NN
+https://d3qm3y9z4b8zw5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ntutzvccuzb74-prod/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:0 type="stream" channelId="2528" name="LaOtra" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", La Otra
@@ -10,7 +14,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:0 type="stream" channelId="1671" name="Canal Sur Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2531" name="TVG América" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
-https://america-crtvg.flumotion.com/playlist.m3u8
+https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:0 type="stream" channelId="3120" name="ETB 2" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:0 type="stream" channelId="4052" name="EITB Basque" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
@@ -21,8 +25,6 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="La 8 Bierzo" logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200", La 8 Bierzo
 https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4048" name="7 R. de Murcia" logo="https://graph.facebook.com/la7tele/picture?width=200&height=200", 7 R. de Murcia
-https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8
 #EXTINF:0 type="stream" channelId="3734" name="Castilla-La Mancha Media" logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200", Castilla-La Mancha Media
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:0 type="stream" channelId="1708" name="Canal Extremadura" logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
@@ -35,6 +37,10 @@ https://directes-tv-cat.ccma.cat/live-origin/tvi-hls/master.m3u8
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 type="stream" channelId="1684" name="Esport 3" logo="https://graph.facebook.com/Esport3/picture?width=200&height=200", Esport 3
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:0 type="stream" channelId="2817", 8TV
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+#EXTINF:0 type="stream" channelId="3706", betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:0 type="stream" channelId="4047" name="À Punt" logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200", À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:0 type="stream" channelId="-1", Multideporte
