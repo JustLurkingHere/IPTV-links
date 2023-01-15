@@ -21,7 +21,7 @@
 [#Vamos](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL3ZhbW9zLnBocA==)<br>
 [Movistar Deportes](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL21kZXBvcnRlcy5waHA=)<br>
 [Movistar Supercopa](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL2dvbG11bmRpYWwucGhw)<br>
-[Movistar Supercopa (Only for Chromium)](https://futbol-tv.online/eventos/?r=Y2hyb21lLWV4dGVuc2lvbjovL2xjaXBlbWJqZmttZWdncGloZHBkZ25qaWxkZ25pZmZsL3BsYXllci5odG1sI2h0dHBzOi8vMDFtdW5kaWFsLWRhc2gtbW92aXN0YXJwbHVzLmVtaXNpb25kb2Y2LmNvbS9kYXNoLzAxbXVuZGlhbC5pc21sL21hbmlmZXN0Lm1wZD8mY2s9ZXlKaFlUTTBaREF6WkRNNVptTTBOMlJqT1RSaVl6TTBOVGc1TWpoaFpHTTVNQ0k2SWpBMk9URTNPRE00TkdFeU5qZ3pPVFl4TUdFeVpqTmlOekpoWWprek5UQTRJbjA9)<br>
+[Movistar Supercopa (Chromium)](https://futbol-tv.online/eventos/?r=Y2hyb21lLWV4dGVuc2lvbjovL2xjaXBlbWJqZmttZWdncGloZHBkZ25qaWxkZ25pZmZsL3BsYXllci5odG1sI2h0dHBzOi8vMDFtdW5kaWFsLWRhc2gtbW92aXN0YXJwbHVzLmVtaXNpb25kb2Y2LmNvbS9kYXNoLzAxbXVuZGlhbC5pc21sL21hbmlmZXN0Lm1wZD8mY2s9ZXlKaFlUTTBaREF6WkRNNVptTTBOMlJqT1RSaVl6TTBOVGc1TWpoaFpHTTVNQ0k2SWpBMk9URTNPRE00TkdFeU5qZ3pPVFl4TUdFeVpqTmlOekpoWWprek5UQTRJbjA9)<br>
 
 ## FRANCIA ##
 [beIN Sports](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2JlaW4xLnBocA==)<br>
@@ -34,6 +34,8 @@
 [beIN Sports 8](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2JlaW5tYXg4LnBocA==)<br>
 [beIN Sports 9](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2JlaW5tYXg5LnBocA==)<br>
 [L'Équipe](https://futbol-tv.online/eventos/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2ZyL2xlcXVpcGUucGhw)<br>
+[L'Équipe Live 1](https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D)<br>
+[L'Équipe Live 2](https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D)<br>
 
 ## ALEMANIA ##
 [DAZN 1](https://futbol-tv.online/eventos/?r=Ly8yODQ4NzQ4NzU4MjczODU3ODM3MTI4NzEyODctZHV0eWQyMjMyNTgzLnd2ZHItYXJjaGl2ZS5ndXJ1L2VtYmVkL2RlL2Rhem4xLnBocA==)<br>
