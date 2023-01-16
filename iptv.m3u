@@ -1,28 +1,28 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml"
 #EXTINF:0 type="stream" channelId="4030", El Toro TV
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/allchannels/1000X104IRCLE.png?scl=1&fmt=png-alpha", 7NN
 https://d3qm3y9z4b8zw5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ntutzvccuzb74-prod/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 type="stream" channelId="1324" name="Telemadrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 #EXTINF:0 type="stream" channelId="2528" name="LaOtra" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", La Otra
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
 #EXTINF:0 type="stream" channelId="1671" name="Canal Sur Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2531" name="TVG América" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 type="stream" channelId="4038" name="TVG 2" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG 2
+https://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:0 type="stream" channelId="3120" name="ETB 2" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:0 type="stream" channelId="4052" name="EITB Basque" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:0 type="stream" channelId="3707" name="La 7" logo="https://graph.facebook.com/cyltv/picture?width=200&height=200", La 7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="La 8 Leon" logo="https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg", La 8 Leon
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="La 8 Bierzo" logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200", La 8 Bierzo
-https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4918", Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:0 type="stream" channelId="3734" name="Castilla-La Mancha Media" logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200", Castilla-La Mancha Media
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:0 type="stream" channelId="1708" name="Canal Extremadura" logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
@@ -41,52 +41,28 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:0 type="stream" channelId="4047" name="À Punt" logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200", À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Factual" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800008ZD_20221026T004511SQUARE.png_20221026004512.png", Pluto TV Mundo Real
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:0 type="stream" channelId="-1" group="Factual" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000094V_20221026T004455SQUARE.png_20221026004455.png", Explore by TVPlayer
-https://amg00712-alchimie-explorebytves-samsungspain-b2ndn.amagi.tv/playlist/amg00712-alchimie-explorebytves-samsungspain/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png", Encantador de Perros
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/633da813ebceae0007124e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 type="stream" channelId="-1" group="Factual" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800008ZD_20221026T004511SQUARE.png_20221026004512.png", Pluto TV Mundo Real
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 type="stream" channelId="-1" group="Factual" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000094V_20221026T004455SQUARE.png_20221026004455.png", Explore by TVPlayer
+https://amg00712-alchimie-explorebytves-samsungspain-b2ndn.amagi.tv/playlist/amg00712-alchimie-explorebytves-samsungspain/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20221214T044859SQUARE.png_20221214044900.png", Pluto TV Cocina
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0af1f26bc900079ab871/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:0 type="stream" channelId="-1" name="¡HOLA! Play" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png", ¡HOLA! Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20221026T004456SQUARE.png_20221026004457.png", Pluto TV Cine Estelar
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png", Películas Top - Rakuten TV
-https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png", Dramas - Rakuten TV
-https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20221109T010644SQUARE.png_20221109010644.png", Comedias - Rakuten TV
-https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png", Acción - Rakuten TV
-https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000079V_20221109T010947SQUARE.png_20221109010947.png", Películas Románticas - Rakuten TV
-https://809319b2b7064d85940128773157bd6f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_RakutenRomance/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png", Cine Español - Rakuten TV
-https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20230111T032658SQUARE.png_20230111032659.png", Cines Verdi TV
-https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20221026T004527SQUARE.png_20221026004527.png", Cine Feel Good – Verdi TV
-https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20220914T041131SQUARE.png_20220914041132.png", Bjgtjme - Películas Gratis
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20221214T044911SQUARE.png_20221214044912.png", Grjngo - Películas Del Oeste
-https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300044CZ_20220511T011717SQUARE.png_20220511011719.png", Movies Central by TV Player
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png", MyTime Movie Network
 https://samsunguk-appletree-mytimespain-samsung-es-i6dht.amagi.tv/playlist/samsunguk-appletree-mytimespain-samsung-es/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png", Tu Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8
 #EXTINF:0 type="stream" channelId="217" name="Euronews" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="736" name="CGTN" logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200", CGTN-E
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/04202022/CNN-RESUMEN_190x190_Circle.png", CNN Resumen
-https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="United States" logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200020N4_20220330T044718SQUARE.png_20220330044718.png", Estrella News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ATV Andorra" logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200", ATV Andorra
@@ -95,16 +71,12 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/all-channels/1_1Circle1000x1000px.png", GB News
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1519" name="BFM TV Francia" logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200", BFM TV
-https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
-#EXTINF:0 type="stream" channelId="2211" name="Rai News 24 Italia" logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200", Rai News 24
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:0 type="stream" channelId="2883", CNN
-https://994099ce85d941afa3ea3e737ac227d0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ch_CNN/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FOX Live Now USA" logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200", FOX Live Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="CBS News USA" logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Newsmax TV USA" logo="https://graph.facebook.com/newsmax/picture?width=200&height=200", Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Ukraine 24 Ucrania" logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200", Ukraine 24
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="397" name="NHK World Japan" logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200", NHK World
