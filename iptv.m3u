@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
 #EXTINF:0 type="stream" channelId="4030", El Toro TV
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/allchannels/1000X104IRCLE.png?scl=1&fmt=png-alpha", 7NN
