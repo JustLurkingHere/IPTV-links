@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-tvg-shift=0 catchup="shift" catchup-days=6 
+tvg-shift=0 catchup="shift" catchup-days=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 1 De
 #KODIPROP:inputstreamaddon=inputstream.adaptive
